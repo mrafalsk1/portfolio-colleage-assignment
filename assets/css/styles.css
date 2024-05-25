@@ -234,7 +234,11 @@ img {
   color: var(--second-color);
   /* font-size: large; */
   padding-left: 0.5rem;
+<<<<<<< HEAD
   font-family: var(--body-font);
+=======
+  font-family: var(--body-font)
+>>>>>>> 501aca694fa5005bc412d2ffeea8a7e87e0bb40a
 }
 .home__img {
   position: absolute;
